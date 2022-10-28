@@ -1,9 +1,0 @@
-.features {
-  &__detail {
-      margin-bottom: $marginBottomOnMobile;
-  
-    @include onTablet {
-      margin-bottom: $marginBottomOnDesktop;
-    }
-  }
-}
